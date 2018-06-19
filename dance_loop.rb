@@ -1,4 +1,4 @@
-loop do
+3.times do
 puts "Right foot back"
 sleep(0.5)
 puts "Left foot back"
@@ -7,5 +7,4 @@ puts "Right foot back"
 sleep(0.5)
 puts "Stop"
 sleep(1)
-break
 end
